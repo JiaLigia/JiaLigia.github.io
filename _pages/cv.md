@@ -27,16 +27,17 @@ redirect_from:
 <br> School of Cyber Security and Computer, Hebei University (HBU)
 <br> Major: Information Security
 <br> Main Courses and Grades: 
-    * Cryptography 96
-    * Advanced Mathematics 98
-    * Security of Information System 93
-    * Linear Algebra 92
-    * Probability and Statistics 87
-    * Principles and Security of Database 87
-    * Cyber security 90
-    * Computer Network 87
-    * Microcomputer Principles 90
-<br>
+ |Course|Grade|
+   |------|-----|
+   |Cryptography|96|
+   |Advanced Mathematics|98|
+   |Security of Information System|93|
+   |Linear Algebra|92|
+   |Probability and Statistics|87|
+   |Principles and Security of Database|87|
+   |Cyber security|90|
+   |Computer Network|87|
+   |Microcomputer Principles|90|
 Based on my achievement of ranking in the top 5 out of 110 students based on my scores, as well as my research experience during my undergraduate studies, I was granted direct admission to BJTU without having to take the postgraduate examination. This opportunity is only given to a select few undergraduates each year from thousands of universities across the country.
 
 # Research experience
