@@ -44,7 +44,7 @@ redirect_from:
 Based on my achievement of ranking in the top 5 out of 110 students based on my scores, as well as my research experience during my undergraduate studies, I was granted direct admission to BJTU without having to take the postgraduate examination. This opportunity is only given to a select few undergraduates each year from thousands of universities across the country.
 
 # Research experience
-## Research on Key Technologies of Data Governance and Trusted Interaction                      2022.07 – 2023.06
+#### Research on Key Technologies of Data Governance and Trusted Interaction                      2022.07 – 2023.06
   * I proposed a distributed authentication scheme to address the problem of unauthorized access in decentralized data sharing and promote secure and privacy-friendly data sharing.
   * I proposed an incentive mechanism to further facilitate the circulation and utilization of multi-source heterogeneous data while ensuring supervision and privacy protection.
 
