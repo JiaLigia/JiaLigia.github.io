@@ -50,7 +50,7 @@ Based on my achievement of ranking in the top 5 out of 110 students based on my 
 
 ### Research on Security Protection Technology of Muti-access Edge Computing (MEC) Network / 2021.09-2022.06
   * I proposed a mutual authentication and authorization scheme for MEC-based smart healthcare systems, which extends OAuth 2.0. The security of this mechanism has been formally proven by BAN logic.
-  * I proposed a Single Sign-On authentication mechanism that enables seamless mobility across multiple MEC platforms. This mechanism allows for access status recovery via tokens and has been formally proven to be secure and correct by the Sequence of Games method.
+  * I proposed a Single Sign-On authentication mechanism that enables seamless mobility across multiple MEC platforms. This mechanism allows for access to status recovery via tokens and has been formally proven to be secure and correct by the Sequence of Games method.
 
 ### Research on Industrial Internet of Things Technologies, Standards, and Authentication / 2021.04-2021.08
   * I conducted an investigation into the characteristics of the edge, IaaS, PaaS, and SaaS layers in the industrial Internet of Things platform. As a result, I completed a research report on cryptographic primitives that are suitable for identity authentication technologies within this framework.
