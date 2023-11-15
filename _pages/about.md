@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Jia Lyu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Jia Lyu
-I am Jia Lyu, a graduate student from the School of Computer and Information Technology at Beijing Jiaotong University, set to complete my Master's degree in 2023 with a focus on Computer Technology. My research interests span the fields of cryptography, distributed systems, network security, and blockchain. I am currently seeking opportunities for a doctoral position to further explore and contribute to these areas.
+I am a graduate from the [School of Computer and Information Technology](https://scit.bjtu.edu.cn/) at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), having completed my Master's degree in Computer Technology in 2023. My research interests encompass cryptography, distributed systems, network security, and blockchain. I am currently actively seeking opportunities for a doctoral position to further delve into and contribute to these areas.
 
-During my Master's program, I had the privilege of being mentored by Professor Xiaolin Chang, affiliated with the Beijing Key Laboratory of Security and Privacy in Intelligent Transportation at Beijing Jiaotong University. My research primarily revolves around the design and analysis of security protocols.
+During my Master's program, I had the privilege of being mentored by [Prof.Xiaolin Chang](https://faculty.bjtu.edu.cn/8026/), affiliated with the Beijing Key Laboratory of Security and Privacy in Intelligent Transportation at [Beijing Jiaotong University](https://www.bjtu.edu.cn/). My research primarily focused on the design and analysis of security protocols.
 
-For a detailed overview of my academic journey and accomplishments, you can refer to my CV. Feel free to reach out to me via email at jia.lyu@outlook.com or lyujia@bjtu.deu.cn.
+For a detailed overview of my academic journey and accomplishments, you can refer to my CV here: [Jia Lyu's CV](../assets/CV-Jia Lyu.pdf).
+
+Feel free to reach out to me via email at [jia.lyu@outlook.com](mailto:jia.lyu@outlook.com) or [lyujia@bjtu.deu.cn](mailto:lyujia@bjtu.deu.cn).
 
 I am enthusiastic about contributing to cutting-edge research and am eager to engage with the academic community to address the evolving challenges in cybersecurity and related domains.
 
 Thank you for visiting my personal page!
 
-Note: Replace # in the link with the actual link to your CV. Additionally, you might want to include hyperlinks to your email addresses for ease of contact.
+
 
 
 
