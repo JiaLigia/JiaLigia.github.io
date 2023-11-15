@@ -33,6 +33,7 @@ Education
     * Cyber security 90
     * Computer Network 87
     * Microcomputer Principles 90
+<br>  
 Based on my achievement of ranking in the top 5 out of 110 students based on my scores, as well as my research experience during my undergraduate studies, I was granted direct admission to BJTU without having to take the postgraduate examination. This opportunity is only given to a select few undergraduates each year from thousands of universities across the country.
 
 Research experience
