@@ -16,7 +16,7 @@ For a detailed overview of my academic journey and accomplishments, you can refe
 
 Feel free to contact me at [jia.lyu@outlook.com](mailto:jia.lyu@outlook.com) or [Iyujia@bjtu.edu.cn](mailto:Iyujia@bjtu.edu.cn).
 
-I am enthusiastic about contributing to cutting-edge research and am eager to engage with the academic community to address the evolving challenges in cybersecurity and related domains.
+I am passionate about contributing to cutting-edge research and eager to collaborate with academia to address the evolving challenges of cybersecurity and related fields.
 
 Thank you for visiting my personal page!
 
