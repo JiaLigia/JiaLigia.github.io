@@ -11,49 +11,63 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Electronic Informationc      2021.09 – 2023.06
+School of Computer and Information Technology, Beijing Jiaotong University (BJTU)
+Major: Computer Technology, Design and Analysis of Security Protocols
+Supervisor: Xiaolin Chang (Professor), BJTU
+Main Courses and Grades:
+Data Security and Privacy Protection 91
+Machine Learning 83
+Stochastic Process 82
+Quantitative Analysis and Assessment of System Dependability and Security 94
+* Bachelor of Engineering                2017.09 – 2021.06
+School of Cyber Security and Computer, Hebei University (HBU)
+Major: Information Security
+Main Courses and Grades: 
+Cryptography 96
+Advanced Mathematics 98
+Security of Information System 93
+Linear Algebra 92
+Probability and Statistics 87
+Principles and Security of Database 87
+Cyber security 90
+Computer Network 87
+Microcomputer Principles 90
+Based on my achievement of ranking in the top 5 out of 110 students based on my scores, as well as my research experience during my undergraduate studies, I was granted direct admission to BJTU without having to take the postgraduate examination. This opportunity is only given to a select few undergraduates each year from thousands of universities across the country.
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research on Key Technologies of Data Governance and Trusted Interaction                      2022.07 – 2023.06
+  * I proposed a distributed authentication scheme to address the problem of unauthorized access in decentralized data sharing and promote secure and privacy-friendly data sharing.
+  * I proposed an incentive mechanism to further facilitate the circulation and utilization of multi-source heterogeneous data while ensuring supervision and privacy protection.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research on Security Protection Technology of Muti-access Edge Computing (MEC) Network       2021.09-2022.06
+  * I proposed a mutual authentication and authorization scheme for MEC-based smart healthcare systems, which extends OAuth 2.0. The security of this mechanism has been formally proven by BAN logic.
+  * I proposed a Single Sign-On authentication mechanism that enables seamless mobility across multiple MEC platforms. This mechanism allows for access status recovery via tokens and has been formally proven to be secure and correct by the Sequence of Games method.
+
+* Research on Industrial Internet of Things Technologies, Standards, and Authentication        2021.04-2021.08
+  * I conducted an investigation into the characteristics of the edge, IaaS, PaaS, and SaaS layers in the industrial Internet of Things platform. As a result, I completed a research report on cryptographic primitives that are suitable for identity authentication technologies within this framework.
+  * I conducted a survey on the research status and relevant standards of cross-domain identity management and authentication technologies at both domestic and international levels. This survey aimed to examine the current state of these technologies and the associated standards.
+* Research on Imprecision Analysis of Network Access Control Intention                         2020.07-2021.01
+  *Within a project focused on network access control policies, our team's primary focus was on deducing conflicts while considering knowledge uncertainty. I played a key role in enhancing the efficiency of processing large-scale OWL semantics and reasoning algorithms.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Jia Lyu, Jianquan Ji, Jianhua Wang, Xiaolin Chang*. Identity Authentication and Authorization for MEC-based Smart Healthcare System. International Journal of Computer & Software Engineering. Volume 7. 2022. 176.
   
-Talks
+Honor & Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* The Third-Class Scholarship of BJTU 	                        2022
+* The First-Class Scholarship of BJTU	                          2021
+* The Outstanding Undergraduate Graduates of Hebei Province	    2021
+* The Merit Student of Hebei Province	                          2020
+* National Encouragement Scholarship	                          2020
+* The Excellent Student Cadre of HBU	                          2019
+* The First-Class Scholarship of HBU (3 times)                	2018–2020
   
-Teaching
+Interests & Hobbies
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+To manage stress and balance my workload, I incorporate various activities into my daily routine:
+* During my role as a study secretary, I received the Excellent Student Cadre designation for my outstanding work.
+* In 2019, I organized a summer social practice team on behalf of HBU. Our objective was to investigate the development of old-age care and education in Laishui County. As a result of our efforts, I was recognized as an Advanced Individual in Social Work.
+* In my leisure time, I find enjoyment in activities such as reading, singing, and participating in outdoor activities like hiking or sports.
