@@ -63,7 +63,7 @@ Based on my achievement of ranking in the top 5 out of 110 students based on my 
 
 Jia Lyu, Jianquan Ji, Jianhua Wang, Xiaolin Chang*. Identity Authentication and Authorization for MEC-based Smart Healthcare System. International Journal of Computer & Software Engineering. Volume 7. 2022. 176.
   
-# Honor & Awards
+# Honors and Awards
 
 * The Third-Class Scholarship of BJTU / 2022
 * The First-Class Scholarship of BJTU / 2021
@@ -73,7 +73,7 @@ Jia Lyu, Jianquan Ji, Jianhua Wang, Xiaolin Chang*. Identity Authentication and 
 * The Excellent Student Cadre of HBU / 2019
 * The First-Class Scholarship of HBU (3 times) / 2018–2020
   
-# Interests & Hobbies
+# Interests and Hobbies
 
 To manage stress and balance my workload, I incorporate various activities into my daily routine:
 * During my role as a study secretary, I received the Excellent Student Cadre designation for my outstanding work.
