@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Master of Electronic Informationc      2021.09 – 2023.06
-  * School of Computer and Information Technology, Beijing Jiaotong University (BJTU)
-  * Major: Computer Technology, Design and Analysis of Security Protocols
-  * Supervisor: Xiaolin Chang (Professor), BJTU
-  * Main Courses and Grades:
+<br> School of Computer and Information Technology, Beijing Jiaotong University (BJTU)
+<br> Major: Computer Technology, Design and Analysis of Security Protocols
+<br> Supervisor: Xiaolin Chang (Professor), BJTU
+<br> Main Courses and Grades:
     * Data Security and Privacy Protection 91
     * Machine Learning 83
     * Stochastic Process 82
