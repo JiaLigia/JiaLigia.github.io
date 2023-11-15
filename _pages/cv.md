@@ -48,7 +48,7 @@ Based on my achievement of ranking in the top 5 out of 110 students based on my 
   * I proposed a distributed authentication scheme to address the problem of unauthorized access in decentralized data sharing and promote secure and privacy-friendly data sharing.
   * I proposed an incentive mechanism to further facilitate the circulation and utilization of multi-source heterogeneous data while ensuring supervision and privacy protection.
 
-## Research on Security Protection Technology of Muti-access Edge Computing (MEC) Network       2021.09-2022.06
+### Research on Security Protection Technology of Muti-access Edge Computing (MEC) Network       2021.09-2022.06
   * I proposed a mutual authentication and authorization scheme for MEC-based smart healthcare systems, which extends OAuth 2.0. The security of this mechanism has been formally proven by BAN logic.
   * I proposed a Single Sign-On authentication mechanism that enables seamless mobility across multiple MEC platforms. This mechanism allows for access status recovery via tokens and has been formally proven to be secure and correct by the Sequence of Games method.
 
