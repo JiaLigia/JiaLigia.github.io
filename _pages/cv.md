@@ -21,9 +21,9 @@ Education
     * Stochastic Process 82
     * Quantitative Analysis and Assessment of System Dependability and Security 94
 * Bachelor of Engineering                2017.09 – 2021.06
-  * School of Cyber Security and Computer, Hebei University (HBU)
-  * Major: Information Security
-  * Main Courses and Grades: 
+<br> School of Cyber Security and Computer, Hebei University (HBU)
+<br> Major: Information Security
+<br> Main Courses and Grades: 
     * Cryptography 96
     * Advanced Mathematics 98
     * Security of Information System 93
