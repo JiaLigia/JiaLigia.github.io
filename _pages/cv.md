@@ -12,27 +12,27 @@ redirect_from:
 Education
 ======
 * Master of Electronic Informationc      2021.09 – 2023.06
-School of Computer and Information Technology, Beijing Jiaotong University (BJTU)
-Major: Computer Technology, Design and Analysis of Security Protocols
-Supervisor: Xiaolin Chang (Professor), BJTU
-Main Courses and Grades:
-Data Security and Privacy Protection 91
-Machine Learning 83
-Stochastic Process 82
-Quantitative Analysis and Assessment of System Dependability and Security 94
+  * School of Computer and Information Technology, Beijing Jiaotong University (BJTU)
+  * Major: Computer Technology, Design and Analysis of Security Protocols
+  * Supervisor: Xiaolin Chang (Professor), BJTU
+  * Main Courses and Grades:
+    * Data Security and Privacy Protection 91
+    * Machine Learning 83
+    * Stochastic Process 82
+    * Quantitative Analysis and Assessment of System Dependability and Security 94
 * Bachelor of Engineering                2017.09 – 2021.06
-School of Cyber Security and Computer, Hebei University (HBU)
-Major: Information Security
-Main Courses and Grades: 
-Cryptography 96
-Advanced Mathematics 98
-Security of Information System 93
-Linear Algebra 92
-Probability and Statistics 87
-Principles and Security of Database 87
-Cyber security 90
-Computer Network 87
-Microcomputer Principles 90
+  * School of Cyber Security and Computer, Hebei University (HBU)
+  * Major: Information Security
+  * Main Courses and Grades: 
+    * Cryptography 96
+    * Advanced Mathematics 98
+    * Security of Information System 93
+    * Linear Algebra 92
+    * Probability and Statistics 87
+    * Principles and Security of Database 87
+    * Cyber security 90
+    * Computer Network 87
+    * Microcomputer Principles 90
 Based on my achievement of ranking in the top 5 out of 110 students based on my scores, as well as my research experience during my undergraduate studies, I was granted direct admission to BJTU without having to take the postgraduate examination. This opportunity is only given to a select few undergraduates each year from thousands of universities across the country.
 
 Research experience
