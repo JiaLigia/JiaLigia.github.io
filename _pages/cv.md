@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 
-## Master of Electronic Informationc      2021.09 – 2023.06
+#### Master of Electronic Informationc      2021.09 – 2023.06
 <br> School of Computer and Information Technology, Beijing Jiaotong University (BJTU)
 <br> Major: Computer Technology, Design and Analysis of Security Protocols
 <br> Supervisor: Xiaolin Chang (Professor), BJTU
@@ -24,7 +24,7 @@ redirect_from:
    |Stochastic Process|82|
    |Quantitative Analysis and Assessment of System Dependability and Security|94|
 
-## Bachelor of Engineering                2017.09 – 2021.06
+#### Bachelor of Engineering                2017.09 – 2021.06
 <br> School of Cyber Security and Computer, Hebei University (HBU)
 <br> Major: Information Security
 <br> Main Courses and Grades:
