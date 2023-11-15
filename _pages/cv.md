@@ -50,7 +50,7 @@ Research experience
   * I conducted an investigation into the characteristics of the edge, IaaS, PaaS, and SaaS layers in the industrial Internet of Things platform. As a result, I completed a research report on cryptographic primitives that are suitable for identity authentication technologies within this framework.
   * I conducted a survey on the research status and relevant standards of cross-domain identity management and authentication technologies at both domestic and international levels. This survey aimed to examine the current state of these technologies and the associated standards.
 * Research on Imprecision Analysis of Network Access Control Intention                         2020.07-2021.01
-  *Within a project focused on network access control policies, our team's primary focus was on deducing conflicts while considering knowledge uncertainty. I played a key role in enhancing the efficiency of processing large-scale OWL semantics and reasoning algorithms.
+  * Within a project focused on network access control policies, our team's primary focus was on deducing conflicts while considering knowledge uncertainty. I played a key role in enhancing the efficiency of processing large-scale OWL semantics and reasoning algorithms.
 
 Publications
 ======
