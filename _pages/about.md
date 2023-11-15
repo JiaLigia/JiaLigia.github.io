@@ -14,7 +14,7 @@ During my Master's program, I had the privilege of being mentored by [Prof. Xiao
 
 For a detailed overview of my academic journey and accomplishments, you can refer to my [CV](https://jialigia.github.io/cv/).
 
-Feel free to reach out to me via email at [jia.lyu@outlook.com](mailto:jia.lyu@outlook.com) or [Iyujia@bjtu.edu.cn](mailto:Iyujia@bjtu.edu.cn).
+Feel free to contact me at [jia.lyu@outlook.com](mailto:jia.lyu@outlook.com) or [Iyujia@bjtu.edu.cn](mailto:Iyujia@bjtu.edu.cn).
 
 I am enthusiastic about contributing to cutting-edge research and am eager to engage with the academic community to address the evolving challenges in cybersecurity and related domains.
 
