@@ -24,7 +24,7 @@ redirect_from:
    |Stochastic Process|82|
    |Quantitative Analysis and Assessment of System Dependability and Security|94|
 
-#### Bachelor of Engineering                2017.09 – 2021.06
+* Bachelor of Engineering                2017.09 – 2021.06
 <br> School of Cyber Security and Computer, Hebei University (HBU)
 <br> Major: Information Security
 <br> Main Courses and Grades:
@@ -44,7 +44,7 @@ redirect_from:
 Based on my achievement of ranking in the top 5 out of 110 students based on my scores, as well as my research experience during my undergraduate studies, I was granted direct admission to BJTU without having to take the postgraduate examination. This opportunity is only given to a select few undergraduates each year from thousands of universities across the country.
 
 # Research experience
-#### Research on Key Technologies of Data Governance and Trusted Interaction                      2022.07 – 2023.06
+### Research on Key Technologies of Data Governance and Trusted Interaction                      2022.07 – 2023.06
   * I proposed a distributed authentication scheme to address the problem of unauthorized access in decentralized data sharing and promote secure and privacy-friendly data sharing.
   * I proposed an incentive mechanism to further facilitate the circulation and utilization of multi-source heterogeneous data while ensuring supervision and privacy protection.
 
@@ -52,11 +52,11 @@ Based on my achievement of ranking in the top 5 out of 110 students based on my 
   * I proposed a mutual authentication and authorization scheme for MEC-based smart healthcare systems, which extends OAuth 2.0. The security of this mechanism has been formally proven by BAN logic.
   * I proposed a Single Sign-On authentication mechanism that enables seamless mobility across multiple MEC platforms. This mechanism allows for access status recovery via tokens and has been formally proven to be secure and correct by the Sequence of Games method.
 
-## Research on Industrial Internet of Things Technologies, Standards, and Authentication        2021.04-2021.08
+### Research on Industrial Internet of Things Technologies, Standards, and Authentication        2021.04-2021.08
   * I conducted an investigation into the characteristics of the edge, IaaS, PaaS, and SaaS layers in the industrial Internet of Things platform. As a result, I completed a research report on cryptographic primitives that are suitable for identity authentication technologies within this framework.
   * I conducted a survey on the research status and relevant standards of cross-domain identity management and authentication technologies at both domestic and international levels. This survey aimed to examine the current state of these technologies and the associated standards.
 
-## Research on Imprecision Analysis of Network Access Control Intention                         2020.07-2021.01
+### Research on Imprecision Analysis of Network Access Control Intention                         2020.07-2021.01
   * Within a project focused on network access control policies, our team's primary focus was on deducing conflicts while considering knowledge uncertainty. I played a key role in enhancing the efficiency of processing large-scale OWL semantics and reasoning algorithms.
 
 # Publications
