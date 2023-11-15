@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lyu Jia / Personal Homepage"
+title                    : "Jia Lyu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jia Lyu"
 description              : &description "personal description"
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : # "Jia.Lyu@outlook.com"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
